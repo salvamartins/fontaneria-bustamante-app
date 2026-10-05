@@ -1,0 +1,15 @@
+{
+  "name": "Fontanería Bustamante",
+  "short_name": "Bustamante",
+  "description": "Clientes, reparaciones, presupuestos y facturas de Fontanería Bustamante (prototipo).",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#f2f2f7",
+  "icons": [
+    { "src": "icono.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
